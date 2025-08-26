@@ -10,7 +10,6 @@ This is a refurbished old tool for a project I did years ago. So yea, have fun. 
 
 **FOR EDUCATIONAL PURPOSE ONLY! The contributor does not assume any responsibility for the misuse of this tool. Please abide the terms and conditions set from this [LINK](https://www.gsmarena.com/robots.txt). Thanks <3**
 
-
 ## Contributing 💡
 
 ```{yaml}
