@@ -36,7 +36,7 @@ Yota,Yota YotaPhone,"2013, November",Android 4.2.2,1800,,720x1280,IPS LCD,GSM / 
 
 ### Option 2: Download Release
 
-1. **Download** the latest release from [here](https://github.com/yourusername/yourrepository/releases)
+1. **Download** the latest release from [here](https://github.com/Rheyhan/GSM-Arena-Scraper/releases/)
 2. **Extract** the downloaded files
 3. **Run** the scraper
 
