@@ -19,8 +19,7 @@ Yota,Yota YotaPhone,"2013, November",Android 4.2.2,1800,,720x1280,IPS LCD,GSM / 
 
 1. **Clone the repository**
     ```bash
-    git clone https://github.com/yourusername/yourrepository.git
-    cd yourrepository
+    git clone https://github.com/Rheyhan/GSM-Arena-Scraper.git
     ```
 
 2. **Install required packages**
