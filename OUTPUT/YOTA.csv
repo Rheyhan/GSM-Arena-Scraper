@@ -1,0 +1,4 @@
+manufacturer,phonename,releasedate,os,batsize,battype,scrsize,scrtype,nettech,chipset,cpu,gpu,internal,maincammodule,maincamvid,selfcammodule,selfcamvid,price
+Yota,Yota YotaPhone 3,"2017, September","Android 7.1.1, Yota 3",3200,18W,1080x1920,AMOLED,GSM / HSPA / LTE,Qualcomm MSM8953 Snapdragon 625 (14 nm),Octa-core 2.0 GHz Cortex-A53,Adreno 506,"64GB 4GB RAM, 128GB 4GB RAM","12 MP, f/1.9, AF",1080p@30fps,"13 MP, f/2.2",,310 EUR
+Yota,Yota YotaPhone 2,"2014, December","Android 4.4.3, up to 6.0",2500,5W,1080x1920,AMOLED,GSM / HSPA / LTE,Qualcomm Snapdragon 801 (28 nm),Quad-core 2.3 GHz Krait 400,Adreno 330,32GB 2GB RAM,"8 MP, AF",1080p@30fps,2.1 MP,,150 EUR
+Yota,Yota YotaPhone,"2013, November",Android 4.2.2,1800,,720x1280,IPS LCD,GSM / HSPA / LTE,Qualcomm MSM8960T Snapdragon S4 Pro,Dual-core 1.7 GHz Krait,Adreno 320,32GB 2GB RAM,"13 MP, AF",1080p@30fps,1 MP,,420 EUR

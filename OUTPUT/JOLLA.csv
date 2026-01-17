@@ -1,0 +1,13 @@
+manufacturer,phonename,releasedate,os,batsize,battype,scrsize,scrtype,nettech,chipset,cpu,gpu,internal,maincammodule,maincamvid,selfcammodule,selfcamvid,price
+Benefon,Benefon TWIG Discovery Pro,Cancelled,Feature phone,1350,,176x220,"TFT, 256K colors",GSM,Na,Na,Na,10MB,No,Na,Na,Na,Na
+Benefon,Benefon TWIG Discovery,"2006, June",Feature phone,1000,,176x220,"TFT, 256K colors",GSM,Na,Na,Na,Na,No,Na,Na,Na,Na
+Benefon,Benefon Q,2000,Feature phone,620,,"100x48 pixels, 6 lin",Monochrome graphic,GSM,Na,Na,Na,Na,No,Na,Na,Na,Na
+Benefon,Benefon Track,2000,Feature phone,700,,"100x48 pixels, 5 lin",Monochrome graphic,GSM,Na,Na,Na,Na,No,Na,Na,Na,Na
+Benefon,Benefon Twin+,2000,Feature phone,650,,"100x48 pixels, 6 lin",Monochrome graphic,GSM,Na,Na,Na,Na,No,Na,Na,Na,Na
+Benefon,Benefon Twin,2000,"Android 2.3, Sense UI 3.5",650,,"100x48 pixels, 6 lin",Monochrome graphic,GSM,Na,Na,Na,Na,No,Na,Na,Na,Na
+Benefon,Benefon Esc!,1999,Feature phone,700,,"100x160 pixels, 20 lin",Monochrome graphic,GSM,Na,Na,Na,Na,No,Na,Na,Na,Na
+Benefon,Benefon iO,1999,Feature phone,700,,6 lin,Monochrome graphic,GSM,Na,Na,Na,Na,No,Na,Na,Na,Na
+Benefon,Benefon Vega,1999,Feature phone,700,,6 lin,Monochrome graphic,GSM,Na,Na,Na,Na,No,Na,Na,Na,Na
+Jolla,Jolla Jolla C,"2016, May",Sailfish 2.0,2500,,720x1280,IPS LCD,GSM / HSPA / LTE,Qualcomm MSM8909v2 Snapdragon 212 (28 nm),Quad-core 1.3 GHz Cortex-A7,Adreno 304,16GB 2GB RAM,"8 MP, AF",1080p@30fps,2 MP,,170 EUR
+Jolla,Jolla Tablet,Cancelled,Sailfish 2.0,4450,,1536x2048,IPS LCD,No cellular connectivity,Intel Atom Z3735F,Quad-core 1.8 GHz,Na,"32GB 2GB RAM, 64GB 2GB RAM","5 MP, AF",1080p@60fps,2 MP,,170 EUR
+Jolla,Jolla Jolla,"2013, November","Sailfish 1, up to 2.0",2100,,540x960,IPS LCD,GSM / HSPA / LTE,Qualcomm Snapdragon 400 (28 nm),Dual-core 1.4 GHz Krait 300,Adreno 305,16GB 1GB RAM,"8 MP, f/2.4, AF",1080p@30fps,2 MP,720p,180 EUR

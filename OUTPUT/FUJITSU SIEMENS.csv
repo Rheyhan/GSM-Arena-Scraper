@@ -1,0 +1,3 @@
+manufacturer,phonename,releasedate,os,batsize,battype,scrsize,scrtype,nettech,chipset,cpu,gpu,internal,maincammodule,maincamvid,selfcammodule,selfcamvid,price
+Fujitsu,Fujitsu Siemens T830,"2006, August",Microsoft Windows Mobile 5.0 Phone Edition,1500,,240x240,"TFT resistive touchscreen, 65K colors",GSM / UMTS,Na,Intel PXA272 416 MHz,Na,"64MB RAM, 128MB ROM","2 MP, AF",Yes,VGA videocall camera,,Na
+Fujitsu,Fujitsu Siemens T810,"2006, August",Microsoft Windows Mobile 5.0 Phone Edition,1500,,240x240,"TFT resistive touchscreen, 65K colors",GSM / UMTS,Na,Intel PXA272 416 MHz,Na,"64MB RAM, 128MB ROM",No,Na,Yes,,Na
